@@ -1,22 +1,3 @@
-// import * as React from "react";
-// import { Card, CardContent, CardHeader } from "@mui/material";
-// import { ThemeProvider, createTheme } from "@mui/material/styles";
-
-// const darkTheme = createTheme({
-//   palette: {
-//     mode: "dark",
-//   },
-// });
-
-// export default () => (
-//   <ThemeProvider theme={darkTheme}>
-//     <Card sx={{ marginTop: "10px" }}>
-//       <CardHeader title="Chào mọi người đến với react-admin" />
-//       <CardContent>Chúng ta sẽ làm được nhiều thứ hay ho ở đây</CardContent>
-//     </Card>
-//   </ThemeProvider>
-// );
-
 import * as React from "react";
 import { Card } from "@mui/material";
 import IconButton from "@mui/material/IconButton";

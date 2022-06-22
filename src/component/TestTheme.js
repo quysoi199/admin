@@ -1,5 +1,5 @@
 import * as React from "react";
-import { defaultTheme, Layout, AppBar, ToggleThemeButton } from "react-admin";
+import { defaultTheme, AppBar, ToggleThemeButton } from "react-admin";
 import { createTheme, Box, Typography } from "@mui/material";
 
 const darkTheme = createTheme({
